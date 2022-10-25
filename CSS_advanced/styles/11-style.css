@@ -56,7 +56,7 @@ a {
     color: var(--color-primary);
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
-    font-size: var(--font-weight-bold);
+    font-weight: var(--font-weight-bold);
 }
 
 .card-category {
